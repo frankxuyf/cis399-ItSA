@@ -3,7 +3,7 @@ Yuanfei xu
 
 Assignment week2
 
-1.Instance ID :	i-f3c66b3b (yuanfeixu123)
+1.Instance ID :	i-392289f1 (feifei)	i-832c874b
 
 2.After you created a instance, its public address just shows on the table.
 3. Diskspace.txt
